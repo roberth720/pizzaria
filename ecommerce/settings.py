@@ -138,7 +138,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 SECURE_CROSS_ORIGIN_OPENER_POLICY='same-origin-allow-popups'
 
-CSRF_TRUSTED_ORIGINS = ['therepizza.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['therepizza.up.railway.app', 'https://therepizza.up.railway.app']
 
 
 #Mensagens
